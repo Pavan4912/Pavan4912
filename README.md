@@ -225,7 +225,23 @@ I also have experience with **.NET, PHP, Python, JavaScript, and frontend techno
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="55" height="55" alt="Maven"/>
   <img src="./assets/gradle.svg" height="55" alt="Gradle"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git"/>
-  <img src="https://thesvg.org/icons/github/dark.svg" width="55" height="55" alt="GitHub"/>
+  <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://thesvg.org/icons/github/dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://thesvg.org/icons/github/light.svg"
+  />
+  <img
+    src="https://thesvg.org/icons/github/light.svg"
+    width="55"
+    height="55"
+    alt="GitHub"
+  />
+</picture>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="55" height="55" alt="GitLab"/>
 </p>
 
@@ -410,10 +426,22 @@ I'm focused on growing as a **Java Backend Engineer** and building reliable, sca
 <div align="center">
 
 <a href="https://github.com/Pavan4912" target="_blank">
-  <img src="https://thesvg.org/icons/github/dark.svg"
-       width="40"
-       height="40"
-       alt="GitHub"/>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://thesvg.org/icons/github/dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://thesvg.org/icons/github/light.svg"
+    />
+    <img
+      src="https://thesvg.org/icons/github/light.svg"
+      width="40"
+      height="40"
+      alt="GitHub"
+    />
+  </picture>
 </a>
 &nbsp;&nbsp;&nbsp;
 
