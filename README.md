@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Pavan Pawar
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28" height="28" alt="Java"/> Java Backend Developer | Spring Boot | Quarkus | Microservices | REST APIs
+### Backend Developer | Spring Boot | Quarkus | .Net | Python | PHP | Microservices | REST APIs | SQL
 
-Software Developer with nearly **3 years of professional experience** building backend applications, REST APIs, microservices, database-driven systems, and enterprise workflows.
+I am Software Developer with nearly **3 years of professional experience** building backend applications, REST APIs, microservices, database-driven systems, and enterprise workflows.
 
 My primary focus is **Java backend development**, with hands-on experience in **Java, Spring Boot, Quarkus, JPA/Hibernate, REST APIs, Microservices, PostgreSQL, MySQL, MSSQL, Redis, JWT, and SQL optimization**.
 
