@@ -462,52 +462,12 @@ I'm focused on growing as a **Java Backend Engineer** and building reliable, sca
 
 # 📫 Connect With Me
 
-<div align="center">
-
-<a href="https://github.com/Pavan4912" target="_blank">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://thesvg.org/icons/github/dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://thesvg.org/icons/github/light.svg"
-    />
-    <img
-      src="https://thesvg.org/icons/github/light.svg"
-      width="40"
-      height="40"
-      alt="GitHub"
-    />
-  </picture>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://linkedin.com/in/pavan4912" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-       width="40"
-       height="40"
-       alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:pavanpawar494@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
-       width="40"
-       height="40"
-       alt="Email"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.instagram.com/kpavan4912/">
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/instagram/default.svg"
-       width="40"
-       height="40"
-       alt="Instagram"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/Pavan4912"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717"><img src="https://cdn.simpleicons.org/github/181717" width="40" height="40" hspace="10" alt="GitHub"></picture></a>
+  <a href="https://linkedin.com/in/pavan4912"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" hspace="10" alt="LinkedIn"></a>
+  <a href="mailto:pavanpawar494@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" hspace="10" alt="Email"></a>
+  <a href="https://www.instagram.com/kpavan4912/"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/instagram/default.svg" width="40" height="40" hspace="10" alt="Instagram"></a>
+</p>
 
 ---
 
