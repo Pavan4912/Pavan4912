@@ -139,7 +139,7 @@ I also have experience with **.NET, PHP, Python, JavaScript, and frontend techno
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55" height="55" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="55" height="55" alt="Symfony"/>
+  <img src="./assets/symfony_dynamic_02.svg" width="55" height="55" alt="Symfony"/>
 </p>
 
 - PHP
@@ -156,7 +156,7 @@ I also have experience with **.NET, PHP, Python, JavaScript, and frontend techno
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="55" height="55" alt="Django"/>
+  <img src="./assets/django-logo-negative.svg" height="55" alt="Django"/>
 </p>
 
 - Python
