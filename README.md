@@ -403,9 +403,35 @@ I'm focused on growing as a **Java Backend Engineer** and building reliable, sca
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pavan4912&show_icons=true&theme=github_dark&hide_border=true" alt="Pavan's GitHub Stats"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=Pavan4912&show_icons=true&theme=github_dark&hide_border=true"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api?username=Pavan4912&show_icons=true&theme=default&hide_border=true"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Pavan4912&show_icons=true&theme=default&hide_border=true"
+    alt="Pavan's GitHub Stats"
+  />
+</picture>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavan4912&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavan4912&layout=compact&theme=github_dark&hide_border=true"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavan4912&layout=compact&theme=default&hide_border=true"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavan4912&layout=compact&theme=default&hide_border=true"
+    alt="Top Languages"
+  />
+</picture>
 
 </div>
 
@@ -415,7 +441,20 @@ I'm focused on growing as a **Java Backend Engineer** and building reliable, sca
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Pavan4912&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com?user=Pavan4912&theme=github-dark-blue&hide_border=true"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://streak-stats.demolab.com?user=Pavan4912&theme=default&hide_border=true"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=Pavan4912&theme=default&hide_border=true"
+    alt="GitHub Streak"
+  />
+</picture>
 
 </div>
 
