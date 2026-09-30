@@ -369,9 +369,9 @@ I'm focused on growing as a **Java Backend Engineer** and building reliable, sca
 
 ### Areas I'm interested in
 
-- ☕ Java Backend Development
-- 🌱 Spring Boot
-- ⚡ Quarkus
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="18" height="18" alt="Java"/> Java Backend Development
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="18" height="18" alt="Spring"/> Spring Boot
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg" width="18" height="18" alt="Quarkus"/> Quarkus
 - 🔗 REST APIs
 - 🧩 Microservices
 - 🗄️ Database Engineering
