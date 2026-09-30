@@ -189,16 +189,6 @@ I also have experience across **.NET, PHP, Python, JavaScript and frontend techn
 
 ---
 
-# 📱 Mobile / Cross-Platform
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-- Flutter application ecosystem exposure
-- Mobile application backend integration
-- REST API integration
-
----
-
 # 💳 Payment Integration
 
 - Payment processing workflows
