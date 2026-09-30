@@ -410,7 +410,7 @@ I'm focused on growing as a **Java Backend Engineer** and building reliable, sca
 <div align="center">
 
 <a href="https://github.com/Pavan4912" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+  <img src="https://thesvg.org/icons/github/dark.svg"
        width="40"
        height="40"
        alt="GitHub"/>
