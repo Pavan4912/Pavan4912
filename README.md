@@ -409,16 +409,27 @@ I'm focused on growing as a **Java Backend Engineer** and building reliable, sca
 
 <div align="center">
 
-<a href="https://github.com/Pavan4912">
-  <img src="https://img.shields.io/badge/GitHub-Pavan4912-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+<a href="https://github.com/Pavan4912" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+       width="40"
+       height="40"
+       alt="GitHub"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
-<a href="https://linkedin.com/in/pavan4912">
-  <img src="https://img.shields.io/badge/LinkedIn-Pavan%20Pawar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://linkedin.com/in/pavan4912" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+       width="40"
+       height="40"
+       alt="LinkedIn"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:pavanpawar494@gmail.com">
-  <img src="https://img.shields.io/badge/Email-pavanpawar494%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
+       width="40"
+       height="40"
+       alt="Email"/>
 </a>
 
 </div>
