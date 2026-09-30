@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Pavan Pawar
 
-### ☕ Java Backend Developer | Spring Boot | Quarkus | Microservices | REST APIs
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28" height="28" alt="Java"/> Java Backend Developer | Spring Boot | Quarkus | Microservices | REST APIs
 
 Software Developer with nearly **3 years of professional experience** building backend applications, REST APIs, microservices, database-driven systems, and enterprise workflows.
 
@@ -14,9 +14,9 @@ I also have experience with **.NET, PHP, Python, JavaScript, and frontend techno
 
 ## 👨‍💻 About Me
 
-- 💻 Java Backend Developer with nearly **3 years of professional experience**
-- ☕ Experience with **Java 8, Java 17 & Java 21**
-- 🌱 Hands-on experience with **Spring Boot & Quarkus**
+- Backend Developer with nearly **3 years of professional experience**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="18" height="18" alt="Java"/> Experience with **Java 8, Java 17 & Java 21**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="18" height="18" alt="Spring"/> Hands-on experience with **Spring Boot & Quarkus**
 - 🔗 Development of **RESTful APIs & Microservices**
 - 🗄️ Experience with **PostgreSQL, MySQL & Microsoft SQL Server**
 - ⚡ Redis caching and backend performance optimization
@@ -31,7 +31,7 @@ I also have experience with **.NET, PHP, Python, JavaScript, and frontend techno
 
 # 🛠️ Technical Skills
 
-## ☕ Java & Backend Development
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28" height="28" alt="Java"/> Java & Backend Development
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55" alt="Java"/>
@@ -192,12 +192,10 @@ I also have experience with **.NET, PHP, Python, JavaScript, and frontend techno
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="55" height="55" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55" alt="Tailwind CSS"/>
 </p>
 
 - React
 - Next.js
-- Tailwind CSS
 - Modern frontend application structure
 
 ---
