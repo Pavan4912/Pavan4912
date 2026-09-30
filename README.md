@@ -498,6 +498,14 @@ I'm focused on growing as a **Java Backend Engineer** and building reliable, sca
        height="40"
        alt="Email"/>
 </a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/kpavan4912/">
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/instagram/default.svg"
+       width="40"
+       height="40"
+       alt="Instagram"/>
+</a>
 
 </div>
 
